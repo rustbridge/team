@@ -6,4 +6,4 @@ The event that we are proposing would be an all-day event, meaning it would span
 
 We hope you will consider our proposal! Thank you so much for your time, we hope to hear from you soon.
 
-[signature/names]
+[NAMES OF ORGANIZERS]
