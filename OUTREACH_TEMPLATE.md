@@ -2,7 +2,7 @@ My name is [NAME], and I'm writing you on behalf of the RustBridge program. Rust
 
 The reason why we think the RustBridge would work in your university is because RustBridge, and other similar programs, like RubyBridge and NodeTogether, have proven to be especially effective around learners who come from a diverse and non-traditional background. We have organized RustBridge events at universities before, like [insert universities here], and we think that it would be a great fit for your university as well.
 
-The event that we are proposing would be an all-day event
+The event that we are proposing would be an all-day event, meaning it would span about 6-8 hours. We have three goals for these kinds of events: To get learners up and running with a Rust development environment, to teach them the basics of the Rust language and ecosystem, and to provide them with their own personal and extendable project that they can work on after they finish. We make an extra effort to relate programming concepts in Rust to similar concepts in other languages, in order to make them easier to understand.
 
 We hope you will consider our proposal! Thank you so much for your time, we hope to hear from you soon.
 
